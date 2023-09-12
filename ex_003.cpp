@@ -10,7 +10,7 @@ int main(){
     cout << "[2] A tube and a loaf of bread" << endl;
     cout << "[3] A milk and a sweet bread" << endl;
     cout << "[4] Suspiro" << endl;
-    cout << "Escolha uma das opções citada acima: ";
+    cout << "Choose one of the options mentioned above: ";
     cin >> option;
 
     if(option == 1){
