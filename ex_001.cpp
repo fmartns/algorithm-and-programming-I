@@ -32,6 +32,5 @@ int main()
         cout<<"The number does not correspond to any day of the week.";
     }
 
-
     return 0;
 }
