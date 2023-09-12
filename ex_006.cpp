@@ -11,7 +11,6 @@ int main(){
     cin >> time1;
     cout << "Enter the number of goals for the second team:";
     cin >> time2;
-
     cout << "The result was: " << endl;
     cout << time1 << " x " << time2 << endl; 
 
